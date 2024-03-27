@@ -50,7 +50,7 @@ def main():
     # Dataset & Dataloader
     test_dataset = DuIEDataset(args,
                                # json_path="./data/duie_test1.json",
-                               json_path="../pre-processing/Input_text.json",
+                               json_path="../pre-processing/Input_text.json", 
                                tokenizer=tokenizer)
 
     test_iter = DataLoader(test_dataset,
