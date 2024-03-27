@@ -1,0 +1,4 @@
+The nums of the train_dataset features is 106
+The nums of the eval_dataset features is 106
+***** Running Evalation *****
+The eval loss is 2.68290638923645

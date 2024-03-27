@@ -1,0 +1,4 @@
+lxml==5.1.0
+numpy==1.26.4
+tqdm==4.66.2
+transformers==4.38.2
