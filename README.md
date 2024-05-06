@@ -1,5 +1,5 @@
 # GST
-GST：a framework to automatically generate SysML diagrams from text based on deep learning
+[GST：a framework to automatically generate SysML diagrams from text based on deep learning]{https://github.com/HaominGuo/HaominGuo.github.io.git/files/GST.pdf}
 ## environments
 ```python
 conda create -n your_env_name python=3.11.8
